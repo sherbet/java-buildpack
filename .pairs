@@ -1,0 +1,23 @@
+# .pairs - configuration for 'git pair'
+pairs:
+  dlb: Damien Le Berrigaud; damien
+  sm: Srinivas Mutkiri; smutkiri
+  cl: Charles LeRose; charles
+  xz: Andy Zhang; andy
+  tc: Travis Cole; travis
+  bs: Balaji Seshadri; balaji
+  jdk: Jean de Klerk; jdeklerk
+  ko: Kevin Olsen; kolsen
+  kb: Kaushik Bhattacharjee; kaushik
+  cs: Chandrakant Singh; chandrakant
+  bn: Brian Naqica; brian
+  am: Austin McKinley; austin
+  tom: Thomas Cordova; thomas
+  bd: Brad Davidson; brad
+  az: Andy Zhao; azhao
+  hl: Hao Leng; hao
+  ic: Interview Candidate; ic
+  cd: Corey Downing; cdowning
+email:
+  prefix: pair
+  domain: pivotal.io
